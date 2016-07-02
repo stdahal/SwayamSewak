@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cause_values">
+        <item>Earthquake</item>
+        <item>Flood</item>
+        <item>Landslides</item>
+        <item>Crisis</item>
+        <item>Disease</item>
+    </string-array>
+</resources>
